@@ -1,6 +1,6 @@
-#ifndef GLOBAL3_H
-#define GLOBAL3_H
-#include "arduinolib3.h"
+#ifndef GLOBAL1_H
+#define GLOBAL1_H
+#include "arduinolib1.h"
 
 extern Pin Pin1;
 extern Pin Pin2;
