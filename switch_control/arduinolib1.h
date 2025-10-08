@@ -1,5 +1,5 @@
-#ifndef arduinolib3_h
-#define arduinolib3_h
+#ifndef arduinolib1_h
+#define arduinolib1_h
 #include <Arduino.h>
 #include <string.h>
 
