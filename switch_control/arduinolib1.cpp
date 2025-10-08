@@ -1,7 +1,7 @@
 #include <Arduino.h>
-#include "arduinolib3.h" 
+#include "arduinolib1.h" 
 #include <string.h>
-#include "global3.h"
+#include "global1.h"
 
 Pin Pin1(8,1000,1000,LOW,LOW);
 Pin Pin2(9,2000,1000,LOW,LOW);
